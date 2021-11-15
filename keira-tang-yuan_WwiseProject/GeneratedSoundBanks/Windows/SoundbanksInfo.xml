@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3989171651" GUID="{B7F5A604-78A5-4235-85EB-A23581CE5B54}" Language="English(US)" Hash="1391432159">
+		<SoundBank Id="3989171651" GUID="{B7F5A604-78A5-4235-85EB-A23581CE5B54}" Language="English(US)" Hash="896398768">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main_Bank</ObjectPath>
 			<ShortName>Main_Bank</ShortName>
 			<Path>English(US)\Main_Bank.bnk</Path>
@@ -138,6 +138,30 @@
 						<File Id="581680188" Language="English(US)">
 							<ShortName>VO_09HRW_020_husband.wav</ShortName>
 							<Path>Voices\English(US)\VO_09HRW_020_husband_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2816861167" Name="VO_11KEI_010_jannah" ObjectPath="\Events\Voice\VO_11KEI_010_jannah" GUID="{0F6FC906-8E6D-4412-9F4A-2D8FEB98972E}" DurationType="OneShot" DurationMin="7.557437" DurationMax="7.557437">
+					<IncludedMemoryFiles>
+						<File Id="382524768" Language="English(US)">
+							<ShortName>VO_11KEI_010_jannah.wav</ShortName>
+							<Path>Voices\English(US)\VO_11KEI_010_jannah_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3576593044" Name="VO_11KEI_020_jannah" ObjectPath="\Events\Voice\VO_11KEI_020_jannah" GUID="{F2DDB761-B289-4E9E-9FCA-A5F548014643}" DurationType="OneShot" DurationMin="22.472494" DurationMax="22.472494">
+					<IncludedMemoryFiles>
+						<File Id="980209497" Language="English(US)">
+							<ShortName>VO_11KEI_020_jannah.wav</ShortName>
+							<Path>Voices\English(US)\VO_11KEI_020_jannah_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2776257953" Name="VO_11KEI_030_jannah" ObjectPath="\Events\Voice\VO_11KEI_030_jannah" GUID="{C5217255-25BD-4837-9A3D-8F842A509FD4}" DurationType="OneShot" DurationMin="10.219388" DurationMax="10.219388">
+					<IncludedMemoryFiles>
+						<File Id="518005892" Language="English(US)">
+							<ShortName>VO_11KEI_030_jannah.wav</ShortName>
+							<Path>Voices\English(US)\VO_11KEI_030_jannah_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>

@@ -28,6 +28,9 @@ namespace AK
         static const AkUniqueID VO_08CHF_120_ETHAN = 296267319U;
         static const AkUniqueID VO_08CHF_130_ETHAN = 903915116U;
         static const AkUniqueID VO_09HRW_020_HUSBAND = 2240928088U;
+        static const AkUniqueID VO_11KEI_010_JANNAH = 2816861167U;
+        static const AkUniqueID VO_11KEI_020_JANNAH = 3576593044U;
+        static const AkUniqueID VO_11KEI_030_JANNAH = 2776257953U;
         static const AkUniqueID VO_11KEI_160_HUSBAND = 2569653828U;
         static const AkUniqueID VO_11KEI_170_HUSBAND = 3103793179U;
         static const AkUniqueID VO_11KEI_180_HUSBAND = 3250207694U;
